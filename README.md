@@ -4,13 +4,12 @@
 </div>
 <div id="Badges2">
     <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&color=rgb(18%2C145%2C182)">
-    <img alt="Java" src="https://github.com/RedondoDev/RandomChamp/blob/master/randomChampBanner.jpeg">
 </div>
 
 # Random Champ
 Java Swing desktop application designed to randomize your League of Legends champion selection per line.
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/be2ef3ec-df5c-43e6-8f8d-d92505c92d8f" width="50%">
+    <img src="https://github.com/RedondoDev/RandomChamp/blob/master/randomChampBanner.jpeg" width="70%">
 </p>
 
 ## Table of Contents

@@ -4,6 +4,7 @@
 </div>
 <div id="Badges2">
     <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&color=rgb(18%2C145%2C182)">
+    <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat-square">
 </div>
 
 # Random Champ

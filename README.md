@@ -24,7 +24,7 @@ Java Swing desktop application designed to randomize your League of Legends cham
 |![image](https://github.com/RedondoDev/RandomChamp/blob/master/appImage.png)|![image](https://github.com/RedondoDev/RandomChamp/blob/master/appImage2.png)|
 
 ## Video
-https://github.com/user-attachments/assets/8fbe1ae9-0c1b-4e18-9de0-7180b17492cf
+https://github.com/user-attachments/assets/210aa7c0-5eb9-4a83-97f4-038449cace45
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
